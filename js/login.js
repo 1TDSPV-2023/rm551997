@@ -8,25 +8,29 @@ let listaDeUsuarios = [
     {
         nomeCompleto : "José das Couves",
         nomeUsuario : "jose",
-        senhaUsuario : "123456"
+        senhaUsuario : "123456",
+        avatarUsuario: "../img/himagem.jpg"
     }
     ,
     {
         nomeCompleto : "João Paulino",
         nomeUsuario : "joao",
-        senhaUsuario : "123456"
+        senhaUsuario : "123456",
+        avatarUsuario: "../img/mimagem.jpg"
     }
     ,
     {
         nomeCompleto : "Maria Tomaite",
         nomeUsuario : "maria",
-        senhaUsuario : "123456"
+        senhaUsuario : "123456",
+        avatarUsuario: "../img/user.jpg"
     }
     ,
     {
         nomeCompleto : "Paulo da Selva",
         nomeUsuario : "paulo",
-        senhaUsuario : "123456"
+        senhaUsuario : "123456",
+        avatarUsuario: "../img/user.jpg"
     }
 ];
 
